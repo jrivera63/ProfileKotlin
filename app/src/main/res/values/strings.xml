@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="textName">Josiah</string>
+    <string name="textBtnViewProfile">View Profile</string>
+    <string name="textProfileInformation">Enter your bio information here: \nMy name is Josiah Rivera and I go to McHenry County College</string>
+
+</resources>
